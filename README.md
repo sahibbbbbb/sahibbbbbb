@@ -1,16 +1,18 @@
-## Hi there 👋
+Full-Stack Web3 Developer. | Backend: Solidity, Hardhat, Ethers.js, Node.js, Chainlink Oracles. | Frontend: React.js, Ethers.js. | Specializing in creating automated DeFi strategies and user-friendly decentralized applications.
 
-<!--
-**sahibbbbbb/sahibbbbbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Smart Contracts writing and testing.
+- Descentralized Applications (DApps)
+- NFTs and Marketplaces.
+- Tokens.
+- Ethers.js integration for smart contract interaction
+- APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Solidity
+- Ethers
+- Hardhat,
+- JavaScript
+- React
+- NodeJs
+- Ethereum
+- ERC721, ERC20 standards
