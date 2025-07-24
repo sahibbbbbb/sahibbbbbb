@@ -7,7 +7,7 @@ Smart Contracts writing and testing.
 - Tokens.
 - Ethers.js integration for smart contract interaction
 - APIs
-
+  Defi
 - Solidity
 - Ethers
 - Hardhat,
